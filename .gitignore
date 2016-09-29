@@ -1,0 +1,6 @@
+*.secret
+*.json
+*.hash
+*last_saved_data
+*unfinished
+*phantomjs

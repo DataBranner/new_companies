@@ -1,0 +1,9 @@
+{
+  "scheme": "https",
+  "base_url": "www.domain.com",
+  "paths": {
+    "index": "index",
+    "login": "login"
+  }
+}
+
